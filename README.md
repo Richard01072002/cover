@@ -26,7 +26,6 @@ Publish the website in the given URL.
 
 ## PROGRAM:
 ```
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -123,14 +122,9 @@ Publish the website in the given URL.
 </html>
 
 ```
-
-
 ## OUTPUT:
 
-
-![image](https://github.com/Richard01072002/cover/assets/141472248/d18aabfa-0e2f-4b8e-9912-6d7ab81f1764)
-
-
+![image](https://github.com/Richard01072002/cover/assets/141472248/11d272ff-d929-4092-a846-0047f77fb54e)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
